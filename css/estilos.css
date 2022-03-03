@@ -8,7 +8,9 @@ body{
 }
 
 #container{
+    background: green;
     width: 70%;
+    height: 300px;
     padding: 1em;
     text-align: left;
     border: 1px solid black;
@@ -17,4 +19,9 @@ body{
 
 #container h1{
     font-size: 20px;
+    margin: 40px 10px;
+}
+
+#container p{
+    margin: 40px 10px;
 }
